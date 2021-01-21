@@ -1,3 +1,29 @@
 h1{ color:red}
 h2{ color:green}
 h3{color:blue}
+body{background-color:#CCCCFF;}
+h4{
+        font-family: Calibri; 
+        font-size: 25pt;         
+        font-style: normal; 
+        font-weight: bold; 
+        color:SlateBlue;
+        text-align: center; 
+        text-decoration: underline
+      }
+      
+      table{
+        font-family: Calibri; 
+        color:white; 
+        font-size: 11pt; 
+        font-style: normal;
+        font-weight: bold;
+        text-align:; 
+        background-color: SlateBlue; 
+        border-collapse: collapse; 
+        border: 2px solid navy
+      }
+      table.inner{
+        border: 0px
+      }   
+}
